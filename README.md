@@ -6,10 +6,11 @@ here you will be able to find everythong related to our Initial Project Report
 in order to perform a tweet sentiment analysis on tweets related to `Covid19`.
 
 ### Dataset
-The Data set is from XXXXX
+The Data set is from Aman Miglani (Coronavirus tweets NLP - Text Classification: Corona Virus Tagged Data) 
 
 ### Steps
 The steps we are planning to take are the following ones:
+
 #### Initial Project report
 1. Search and load necessary libraries
 2. Exploratory data analysis
@@ -27,4 +28,5 @@ The steps we are planning to take are the following ones:
 5. Analysis of key findings
 6. Final Presentation
 
-
+##### Link to kaggle file
+https://www.kaggle.com/marianigc94/initial-project-report 
