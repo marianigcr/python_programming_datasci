@@ -15,18 +15,20 @@ The steps we are planning to take are the following ones:
 1. Search and load necessary libraries
 2. Exploratory data analysis
 3. Tweet pre-processing
+4. Exploratory data analysis
+  +  Here we want to explore the distribution of the tags in the training and the test data sets
+  +  If possible, to plot the evolution of sentiments through time
+5. Tokenization
 
 #### Final Project report
 
-4. Model Construction
+6. Model Construction
   + Defining embedding dimension
   + Building sequential neural network
   + Compiling and training model
   + Evaluate model
   + Calculate and plot confusion matrix
   + Print Clasification report
-5. Analysis of key findings
-6. Final Presentation
+7. Analysis of key findings
+8. Final Presentation
 
-##### Link to kaggle file
-https://www.kaggle.com/marianigc94/initial-project-report 
