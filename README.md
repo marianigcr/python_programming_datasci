@@ -29,11 +29,5 @@ but this does not apply to the whole data frame, only for the wordcloud.
 #### Final Project report
 4. Tokenization
 5. Model Construction
-  + Defining embedding dimension
-  + Building sequential neural network
-  + Compiling and training model
-  + Evaluate model
-  + Calculate and plot confusion matrix
-  + Print Clasification report
 6. Analysis of key findings & final presentation
 
